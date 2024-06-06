@@ -3,11 +3,11 @@ dev.db
 venv/*
 backups/*
 static/
-cabot/.collectstatic/
+dagerputy/.collectstatic/
 node_modules/*
 .python-eggs/*
-cabot.egg-info
-cabot/static/
+dagerputy.egg-info
+dagerputy/static/
 .env
 .DS_Store
 celerybeat-schedule

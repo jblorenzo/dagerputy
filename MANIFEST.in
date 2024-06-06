@@ -1,5 +1,5 @@
-recursive-include cabot/.collectstatic *
-recursive-include cabot/templates *
+recursive-include dagerputy/.collectstatic *
+recursive-include dagerputy/templates *
 include requirements.txt
 include requirements-plugins.txt
 include requirements-dev.txt
