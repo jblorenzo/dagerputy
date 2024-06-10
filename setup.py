@@ -21,7 +21,7 @@ setup(
                 " - like a lightweight PagerDuty",
     long_description=open('README.md').read(),
     author="Arachnys",
-    author_email='info@arachnys.com',
+    author_email='info@remedee.com',
     url='http://dagerputyapp.com',
     license='MIT',
     install_requires=requirements + requirements_plugins,

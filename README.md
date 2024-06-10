@@ -1,14 +1,14 @@
 Dagerputy
 =====
-[![Build Status](https://travis-ci.org/arachnys/dagerputy.svg?branch=master)](https://travis-ci.org/arachnys/dagerputy) 
+[![Build Status](https://travis-ci.org/remedee/dagerputy.svg?branch=master)](https://travis-ci.org/remedee/dagerputy) 
 [![PyPI version](https://badge.fury.io/py/dagerputy.svg)](https://badge.fury.io/py/dagerputy)
-[![Coverage Status](https://codecov.io/github/arachnys/dagerputy/coverage.svg?branch=master)](https://codecov.io/github/arachnys/dagerputy?branch=master)
+[![Coverage Status](https://codecov.io/github/remedee/dagerputy/coverage.svg?branch=master)](https://codecov.io/github/remedee/dagerputy?branch=master)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Gitter](https://img.shields.io/gitter/room/arachnys/dagerputy.svg)](https://gitter.im/arachnys/dagerputy)
+[![Gitter](https://img.shields.io/gitter/room/remedee/dagerputy.svg)](https://gitter.im/remedee/dagerputy)
 
 ## Maintainers wanted
 
-**Dagerputy is stable and used by hundreds of companies and individuals in production, but it is not actively maintained. We would like to hand over maintenance of the project to one or more responsible and experienced maintainers. Please email dagerputy@arachnys.com with some information about yourself (github profile and/or CV) if you are interested.**
+**Dagerputy is stable and used by hundreds of companies and individuals in production, but it is not actively maintained. We would like to hand over maintenance of the project to one or more responsible and experienced maintainers. Please email dagerputy@remedee.com with some information about yourself (github profile and/or CV) if you are interested.**
 
 ## Why choose Dagerputy
 
@@ -22,7 +22,7 @@ You can alert based on:
 *   Status code and response content of web endpoints
 *   [Jenkins](http://jenkins-ci.org) build statuses
 
-We built Dagerputy as a Christmas project at [Arachnys](https://www.arachnys.com) because we couldn't wrap our heads around Nagios, and nothing else out there seemed to fit our use case. We're open-sourcing it in the hope that others find it useful.
+We built Dagerputy as a Christmas project at [Arachnys](https://www.remedee.com) because we couldn't wrap our heads around Nagios, and nothing else out there seemed to fit our use case. We're open-sourcing it in the hope that others find it useful.
 
 Dagerputy is written in Python and uses [Django](https://www.djangoproject.com/), [Bootstrap](http://getbootstrap.com/), [Font Awesome](http://fontawesome.io) and a whole host of other goodies under the hood.
 

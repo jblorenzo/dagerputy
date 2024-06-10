@@ -58,7 +58,7 @@ urlpatterns = [
      url('^', include('django.contrib.auth.urls')),
 
      url(r'^(?P<path>favicon\.ico)$', serve, name='favicon',
-        kwargs={'document_root': os.path.join(settings.STATIC_ROOT, 'arachnys/img')}),
+        kwargs={'document_root': os.path.join(settings.STATIC_ROOT, 'remedee/img')}),
 
      url(r'^$', view=home_authentication_switcher,
         name='dashboard'),

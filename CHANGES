@@ -21,8 +21,8 @@ Version 0.11.13
 * Reduce Arachnys branding a bit
 * Fix 404 page for logged out users
 * Style forms with django-bootstrap-form
-* [[#605](https://github.com/arachnys/dagerputy/issues/605)] Fix http check forms auto-filling username/password
-* [[#607](https://github.com/arachnys/dagerputy/issues/607)] Fix checks for websites service non utf-8 content
+* [[#605](https://github.com/remedee/dagerputy/issues/605)] Fix http check forms auto-filling username/password
+* [[#607](https://github.com/remedee/dagerputy/issues/607)] Fix checks for websites service non utf-8 content
 
 Version 0.11.12
 ---------------
@@ -52,7 +52,7 @@ Version 0.11.8
 * Bump dagerputy-alert-slack to 0.8.2
 * Update LDAP dependencies
 * Add ENABLE_SUBSCRIPTION and ENABLE_DUTY_ROTA options
-* [[#556](https://github.com/arachnys/dagerputy/issues/556)] Fix issue with HttpStatusCheck with unicode content
+* [[#556](https://github.com/remedee/dagerputy/issues/556)] Fix issue with HttpStatusCheck with unicode content
 
 Version 0.11.7
 --------------
@@ -80,7 +80,7 @@ Version 0.11.4
 Version 0.11.3
 --------------
 
-* [[#551](https://github.com/arachnys/dagerputy/issues/551)] Fix in-progress jenkins jobs being marked as failing
+* [[#551](https://github.com/remedee/dagerputy/issues/551)] Fix in-progress jenkins jobs being marked as failing
 
 Version 0.11.2
 --------------
