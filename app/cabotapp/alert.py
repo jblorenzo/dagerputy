@@ -52,7 +52,7 @@ def send_email_alert(service, users, duty_officers):
   })
   if service.overall_status != service.PASSING_STATUS:
     if service.overall_status == service.CRITICAL_STATUS:
-      emails += [u.email for u in duty_officers]
+      emails += [u.user.email for u in duty_officers if u.user.email]
     subject = '%s status for service: %s' % (service.overall_status, service.name)
   else:
     subject = 'Service back to normal: %s' % (service.name,)
